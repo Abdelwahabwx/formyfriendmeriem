@@ -16,8 +16,7 @@
      display: grid;
      place-items: center;
      height: 500px;
-     border: 2px solid rgba(255,255,255,0.7);
-     border-radius: 20px;
+    
    }
    .container{
     display: flex;
